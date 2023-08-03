@@ -1,4 +1,4 @@
 # Portfolio
 
-This a my portfoilo of my projects i have done. 
+This a my portfoilo of projects i have done. 
 
